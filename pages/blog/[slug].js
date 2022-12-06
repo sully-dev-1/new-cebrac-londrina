@@ -11,7 +11,7 @@ export default function Blog({post}) {
   return (
     <div>
       <Head>
-        <title>{post.title} | Cebrac Unidade de Cuiabá</title>
+        <title>{post.title} | Cebrac Unidade de Londrina</title>
       </Head>
       <Header />
       <main>
