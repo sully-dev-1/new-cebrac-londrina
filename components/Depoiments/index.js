@@ -37,7 +37,7 @@ function Depoiments({depos}) {
                                     <span>{depo.deporole}</span>
                                 </div>
                                 <div className='depo__img'>
-                                    <Image src={depo.depoimg.url} alt={depo.deponame} layout="fill" />
+                                    <Image src={depo.depoimg.url} alt={depo.deponame} fill />
                                 </div>
                             </DepoimentCard>
                         </SwiperSlide>
@@ -66,7 +66,7 @@ function Depoiments({depos}) {
                                     <span>{depo.deporole}</span>
                                 </div>
                                 <div className='depo__img'>
-                                    <Image src={depo.depoimg.url} alt={depo.deponame} layout="fill" />
+                                    <Image src={depo.depoimg.url} alt={depo.deponame} fill />
                                 </div>
                             </DepoimentCard>
                         </SwiperSlide>
@@ -95,7 +95,7 @@ function Depoiments({depos}) {
                                     <span>{depo.deporole}</span>
                                 </div>
                                 <div className='depo__img'>
-                                    <Image src={depo.depoimg.url} alt={depo.deponame} layout="fill" />
+                                    <Image src={depo.depoimg.url} alt={depo.deponame} fill />
                                 </div>
                             </DepoimentCard>
                         </SwiperSlide>

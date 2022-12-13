@@ -28,17 +28,17 @@ function BannerHero() {
             >
               <SwiperSlide>
                 <div className='banner__hero__img'>
-                  <Image src={BannerHeroOne} alt="Banner Image" layout='fill'/>
+                  <Image src={BannerHeroOne} alt="Banner Image" fill/>
                 </div>
               </SwiperSlide>
               <SwiperSlide>
                 <div className='banner__hero__img'>
-                  <Image src={BannerHeroTwo} alt="Banner Image" layout='fill'/>
+                  <Image src={BannerHeroTwo} alt="Banner Image" fill/>
                 </div>
               </SwiperSlide>
               <SwiperSlide>
                 <div className='banner__hero__img'>
-                  <Image src={BannerHeroThree} alt="Banner Image" layout='fill'/>
+                  <Image src={BannerHeroThree} alt="Banner Image" fill/>
                 </div>
               </SwiperSlide>
             </Swiper>

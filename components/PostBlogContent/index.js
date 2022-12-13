@@ -24,7 +24,7 @@ function PostBlogContent({post}) {
   return (
     <PostBlogContentContainer>
         <div className='postpage__img'>
-            <Image src={post.postimg.url} alt={post.title} layout="fill"/>
+            <Image src={post.postimg.url} alt={post.title} fill/>
         </div>
         <span>{new Date(post.date).toLocaleDateString("pt-BR")}</span>
         <h2>{post.title}</h2>

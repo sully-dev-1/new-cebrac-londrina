@@ -12,8 +12,8 @@ function Careers() {
   return (
     <CareersContainer>
         <h2>Trilhas de Desenvolvimento</h2>
-        <CareerCard>
-            <div className='career__card__img' id="saude">
+        <CareerCard id="saude">
+            <div className='career__card__img'>
                 <Image src={SaudeImg} alt="Trilha Saúde" fill />
             </div>
             <div className='career__card__txt'>
@@ -24,8 +24,8 @@ function Careers() {
                 </Link>
             </div>
         </CareerCard>
-        <CareerCard>
-            <div className='career__card__img' id="empresas">
+        <CareerCard id="empresas">
+            <div className='career__card__img'>
                 <Image src={AdmImg} alt="Trilha de Empresas" fill />
             </div>
             <div className='career__card__txt'>
@@ -36,8 +36,8 @@ function Careers() {
                 </Link>
             </div>
         </CareerCard>
-        <CareerCard>
-            <div className='career__card__img' id="idiomas">
+        <CareerCard id="idiomas">
+            <div className='career__card__img'>
                 <Image src={LangImg} alt="Trilha de Idiomas" fill />
             </div>
             <div className='career__card__txt'>
@@ -48,8 +48,8 @@ function Careers() {
                 </Link>
             </div>
         </CareerCard>
-        <CareerCard>
-            <div className='career__card__img' id="tecnologias">
+        <CareerCard id="tecnologias">
+            <div className='career__card__img'>
                 <Image src={TecImg} alt="Trilha de Tecnologias" fill />
             </div>
             <div className='career__card__txt'>
@@ -60,8 +60,8 @@ function Careers() {
                 </Link>
             </div>
         </CareerCard>
-        <CareerCard>
-            <div className='career__card__img' id="beleza">
+        <CareerCard id="beleza">
+            <div className='career__card__img'>
                 <Image src={BlzImg} alt="Trilha da Beleza" fill />
             </div>
             <div className='career__card__txt'>

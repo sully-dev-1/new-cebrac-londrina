@@ -19,7 +19,7 @@ function PostBlogIndividual({
         <PostCard key={id}>
             <div className='post__card__img'>
                 <Link href={`/blog/${postLink}`}>
-                    <Image src={imgLink.url} alt={title} layout="fill" />
+                    <Image src={imgLink.url} alt={title} fill />
                     {/* <p>img</p> */}
                 </Link>
             </div>
