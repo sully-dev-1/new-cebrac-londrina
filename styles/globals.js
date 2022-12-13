@@ -61,4 +61,5 @@ export default createGlobalStyle`
       height: 109px;
     }
   }
+
 `;

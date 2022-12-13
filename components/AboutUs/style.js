@@ -15,9 +15,20 @@ export const AboutUsContainer = styled.section`
     }
 
     .about__img {
-        max-width: 800px;
+        max-width: 900px;
+        max-height: 500px;
         margin: 0 auto;
         margin-bottom: 2rem;
+        overflow: hidden;
+        display: block;
+        position: relative;
+
+        img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            object-position: center;
+        }
     }
     .about__txt {
         p {
