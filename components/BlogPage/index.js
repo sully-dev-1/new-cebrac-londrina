@@ -7,7 +7,7 @@ import {MdOutlineArrowBackIos, MdOutlineArrowForwardIos } from 'react-icons/md';
 import { BlogPostContainer, PostCard } from './style'
 
 function BlogPosts({posts}) {
-    console.log(posts, 'postagens')
+    // console.log(posts, 'postagens')
 
     const [pageNumber, setPageNumber] = useState(0);
 

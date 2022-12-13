@@ -158,19 +158,11 @@ export const FooterContainer = styled.footer`
             display: block;
             line-height: 20px;
             transition: all 100ms ease-out;
+            margin-bottom: .5rem;
 
             &:hover {
                 color: ${({ theme }) => lighten(0.3, theme.primary)};
             }
-
-            &:nth-child(4){
-                font-weight: 700;
-                margin-top: 2rem;
-            };
-            &:nth-child(5){
-                font-weight: 700;
-                margin-top: .5rem;
-            };
         }
 
         @media screen and (max-width: 980px){

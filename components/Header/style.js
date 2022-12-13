@@ -65,6 +65,10 @@ export const HeaderTop = styled.div`
         }
     }
 
+    @media screen and (max-width: 980px){
+        display: none;
+    }
+
     @media screen and (max-width: 740px){
         .header__content {
             flex-direction: column;
@@ -299,6 +303,16 @@ export const HeaderMobileBottom = styled.div`
                         animation: dropDownAnimation 200ms ease-in-out forwards;
                     } */
                 }
+            }
+        }
+
+        .header__mobile_social {
+            display: flex;
+            flex-direction: column;
+            margin-top: 2rem;
+            
+            a {
+                margin-bottom: 1rem;
             }
         }
     }
