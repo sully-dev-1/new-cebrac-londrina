@@ -67,9 +67,9 @@ function PoliticasPrivacidade() {
             <h3><span>Compromisso do Usuário</span></h3>
             <p><span>O usuário se compromete a fazer uso adequado dos conteúdos e da informação que o Cebrac Londrina-PR oferece no site e com caráter enunciativo, mas não limitativo:</span></p>
             <ul>
-              <li><span>A) Não se envolver em atividades que sejam ilegais ou contrárias à boa fé a à ordem pública;</span></li>
-              <li><span>B) Não difundir propaganda ou conteúdo de natureza racista, xenofóbica, </span><span><a href='https://ondeapostar.com/betano-e-confiavel/' rel='nofollow' target='_blank'> betano</a></span><span> ou azar, qualquer tipo de pornografia ilegal, de apologia ao terrorismo ou contra os direitos humanos;</span></li>
-              <li><span>C) Não causar danos aos sistemas físicos (hardwares) e lógicos (softwares) do Cebrac Londrina-PR, de seus fornecedores ou terceiros, para introduzir ou disseminar vírus informáticos ou quaisquer outros sistemas de hardware ou software que sejam capazes de causar danos anteriormente mencionados.</span></li>
+              <li><span>A&#41; Não se envolver em atividades que sejam ilegais ou contrárias à boa fé a à ordem pública;</span></li>
+              <li><span>B&#41; Não difundir propaganda ou conteúdo de natureza racista, xenofóbica, </span><span><a href='https://ondeapostar.com/betano-e-confiavel/' rel='nofollow noreferrer' target='_blank'> betano</a></span><span> ou azar, qualquer tipo de pornografia ilegal, de apologia ao terrorismo ou contra os direitos humanos;</span></li>
+              <li><span>C&#41; Não causar danos aos sistemas físicos &#40;hardwares&#41; e lógicos &#40;softwares&#41; do Cebrac Londrina-PR, de seus fornecedores ou terceiros, para introduzir ou disseminar vírus informáticos ou quaisquer outros sistemas de hardware ou software que sejam capazes de causar danos anteriormente mencionados.</span></li>
             </ul>
             <h3><span>Mais informações</span></h3>
             <p><span>Esperemos que esteja esclarecido e, como mencionado anteriormente, se houver algo que você não tem certeza se precisa ou não, geralmente é mais seguro deixar os cookies ativados, caso interaja com um dos recursos que você usa em nosso site.</span></p>
